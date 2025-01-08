@@ -1,3 +1,3 @@
 # krypto522 or [altaytqn](https://sevncore.net)
 
-![Altay's GitHub stats](https://github-readme-stats.vercel.app/api?username=altaytqn&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altaytqn&hide_progress=true)
