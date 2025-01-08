@@ -1,3 +1,3 @@
 # krypto522 or [altaytqn](https://sevncore.net)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altaytqn&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
