@@ -1,3 +1,3 @@
 # krypto522 or [altaytqn](https://sevncore.net)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=altaytqn&repo=github-readme-stats)](https://github.com/altaytqn/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altaytqn)](https://github.com/altaytqn/github-readme-stats)
